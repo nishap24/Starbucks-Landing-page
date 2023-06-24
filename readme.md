@@ -1,20 +1,23 @@
 
 ## Title
 
-TG Codes💛 - Starbucks landing page
+Nisha P - Starbucks landing page
 ## Description 
 
 🌟 Welcome to our cloned Starbucks landing page! 🌟 While it may not function like the original yet, it visually resembles the real deal. Stay tuned as we continue to learn and add the necessary database and backend functionalities for a fully operational clone. Thank you for visiting! ☕️😊
 ## Authors
 
+- [Nisha Prabhuswami](https://www.github.com/nishap24)
+
 - [TG💛](https://www.github.com/codesofTG)
 
-- [Nisha Prabhuswami](https://www.github.com/nishap24)
+  
 ## Demo
 
 Live Demo:
 
-    https://codesoftg.github.io/Starbucks---Landing-Page/
+    https://nishap24.github.io/Starbucks-Landing-page/
+
 ## Getting Started
 
 To explore or modify the code, follow these steps:
