@@ -1,13 +1,13 @@
 
 ## Title
 
-Nisha P - Starbucks landing page
+NK💛 - Starbucks landing page
 ## Description 
 
 🌟 Welcome to our cloned Starbucks landing page! 🌟 While it may not function like the original yet, it visually resembles the real deal. Stay tuned as we continue to learn and add the necessary database and backend functionalities for a fully operational clone. Thank you for visiting! ☕️😊
 ## Authors
 
-- [Nisha Prabhuswami](https://www.github.com/nishap24)
+- [NK💛](https://www.github.com/nishap24)
 
 
 
@@ -60,11 +60,11 @@ If you have any suggestions, improvements, or bug fixes, feel free to submit a p
 
 For any questions or inquiries, please feel free to reach out. 
 
-Nisha P:
+NK💛:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-nisha-p/)
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NishaP2407)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nishap24)
 
 
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_nisha_2407_/)
