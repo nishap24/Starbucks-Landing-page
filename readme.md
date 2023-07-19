@@ -9,7 +9,7 @@ Nisha P - Starbucks landing page
 
 - [Nisha Prabhuswami](https://www.github.com/nishap24)
 
-- [TG💛](https://www.github.com/codesofTG)
+
 
   
 ## Demo
